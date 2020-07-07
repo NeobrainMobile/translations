@@ -72,7 +72,7 @@ class PushTranslations extends Command
 
         //Git Push to chosen remote
         exec('git add .');
-        exec('git commit -m "new strings"');
+        exec('git commit public/translations');
         exec('git push ' . $remote . ' ' . $this->branch . ' --tags --force');
 
         $this->info('Git Push Complete');
