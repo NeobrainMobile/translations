@@ -90,7 +90,7 @@ class StringController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        // dont change anything
     }
 
     /**
@@ -106,6 +106,6 @@ class StringController extends Controller
 
     public function publish()
     {
-        
+
     }
 }
