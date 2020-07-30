@@ -60,5 +60,6 @@
     "60": "sur {}",
     "61": "Pas achev\u00e9",
     "62": "Votre profil est-il \u00e0 jour? V\u00e9rifiez-le.",
-    "63": "Champs requis"
+    "63": "Champs requis",
+    "64": "La date de fin ne peut \u00eatre ant\u00e9rieur \u00e0 celle du d\u00e9but du projet"
 }
