@@ -95,5 +95,9 @@
     "96": "Type",
     "97": "Context",
     "98": "Total budget",
-    "99": "Assigned missions"
+    "99": "Assigned missions",
+    "100": "Skill",
+    "101": "Level",
+    "102": "Motivation",
+    "103": "Remove skill"
 }
