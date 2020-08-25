@@ -159,5 +159,9 @@
     "160": "Faire le test",
     "161": "\u00c0 propos du test",
     "162": "Test",
-    "163": "Vous avez d\u00e9J\u00e0 fait ce test il y a {}: les r\u00e9sultats peuvent \u00eatre biais\u00e9s. \u00cates-vous s\u00fbr(e) de vouloir le refaire maintenant?"
+    "163": "Vous avez d\u00e9J\u00e0 fait ce test il y a {}: les r\u00e9sultats peuvent \u00eatre biais\u00e9s. \u00cates-vous s\u00fbr(e) de vouloir le refaire maintenant?",
+    "164": "moins d'un jour",
+    "165": "jour",
+    "166": "jours",
+    "167": "semaine"
 }
