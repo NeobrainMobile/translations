@@ -78,7 +78,7 @@
     "79": "You will not be able to retrieve the information.",
     "80": "Remove",
     "81": "Save",
-    "82": "Licenses\\n& certifications",
+    "82": "Licenses",
     "83": "Formation",
     "84": "School",
     "85": "Diploma",
@@ -171,5 +171,6 @@
     "172": "File type",
     "173": "Tags",
     "174": "PROFILE?",
-    "175": "The results of your tests will only be available to you and your mobility advisor, whose identity is provided on the platform home page. You have the right to access, modify, rectify and delete data concerning you"
+    "175": "The results of your tests will only be available to you and your mobility advisor, whose identity is provided on the platform home page. You have the right to access, modify, rectify and delete data concerning you",
+    "176": "& certifications"
 }
