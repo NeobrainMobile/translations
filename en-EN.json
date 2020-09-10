@@ -401,5 +401,14 @@
     "403": "Locked",
     "404": "Target",
     "405": "CURRENT",
-    "406": "No key results were created. Contact your manager"
+    "406": "No key results were created. Contact your manager",
+    "407": "A badge is a fun way to motivate yourself and use the application in a more successful way. Unlock as many badges as possible to become a leadership expert",
+    "408": "Congratulations!",
+    "409": "Key results ({})",
+    "410": "New badge",
+    "411": "You have unlocked",
+    "412": "Comments ({})",
+    "413": "+ Add a comment",
+    "414": "new badges",
+    "415": "Ongoing action"
 }
