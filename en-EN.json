@@ -452,5 +452,9 @@
     "454": "Report finished",
     "455": "How did you feel this week?",
     "456": "Finish",
-    "457": "Key Results {} of {}"
+    "457": "Key Results {} of {}",
+    "458": "The current value is",
+    "459": "Max value: {}",
+    "460": "Add the new value",
+    "461": "Comment: what has changed?"
 }
