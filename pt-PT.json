@@ -30,7 +30,7 @@
     "30": "Filtro",
     "31": null,
     "32": null,
-    "33": null,
+    "33": "Editar",
     "34": null,
     "35": "N\u00e3o tens nenhum artigo favorito... :(",
     "36": "N\u00e3o existem artigos dispon\u00edveis.. :(",
@@ -540,5 +540,7 @@
     "543": "Data limite :",
     "544": "Detalhes de a\u00e7\u00e3o",
     "545": "Adicionar lembrete",
-    "546": "Nota"
+    "546": "Nota",
+    "547": "Definir",
+    "548": "Escolher hora"
 }
