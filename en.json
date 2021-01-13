@@ -588,5 +588,8 @@
     "591": "{} questions answered on {}",
     "592": "Skill details",
     "593": "questions answered on",
-    "594": "Alert"
+    "594": "Alert",
+    "595": "Do you want to delete the row?",
+    "596": "Delete row",
+    "597": "Complete the row"
 }
