@@ -6,7 +6,7 @@
     "5": "Offres externes",
     "6": "Entrez un m\u00e9tier, mot-cl\u00e9\u2026",
     "7": "Redo the questionnaire",
-    "8": null,
+    "8": "The last published offers",
     "9": "Log in",
     "10": "Progression",
     "11": "Skills progression percentage",
@@ -594,5 +594,7 @@
     "597": "Complete the row",
     "598": "ARE YOU READY TO SUBMIT ?",
     "599": "You should answer all the questions before submitting the questionnaire. After submitting, you can't edit the answers.",
-    "600": "+ Add a row"
+    "600": "+ Add a row",
+    "601": "Deadline",
+    "602": "Weight relative to the award:"
 }
