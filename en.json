@@ -596,5 +596,7 @@
     "599": "You should answer all the questions before submitting the questionnaire. After submitting, you can't edit the answers.",
     "600": "+ Add a row",
     "601": "Deadline",
-    "602": "Weight relative to the award:"
+    "602": "Weight relative to the award:",
+    "603": "In order to answer the questionnaire, you need to fill these sections. There is no order to do it, you can start from each section you want. Click on play to start.",
+    "604": "You can check your answers to the questionnaire. As you submit, you cannot edit the answers. Your manager might comment each question."
 }

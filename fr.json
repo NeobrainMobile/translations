@@ -596,5 +596,7 @@
     "599": "Vous devez r\u00e9pondre \u00e0 toutes les questions avant de soumettre le questionnaire. Apr\u00e8s l'avoir envoy\u00e9, vous ne pouvez pas modifier les r\u00e9ponses.",
     "600": "+ Ajouter une ligne",
     "601": "Date limite",
-    "602": "Poids relatif \u00e0 la prime:"
+    "602": "Poids relatif \u00e0 la prime:",
+    "603": "Afin de r\u00e9pondre au questionnaire, vous devez remplir ces sections. Il n'y a pas d'ordre pour le faire, vous pouvez commencer \u00e0 partir de chaque section que vous voulez. Cliquez sur jouer pour commencer.",
+    "604": "Vous pouvez v\u00e9rifier vos r\u00e9ponses au questionnaire. Lorsque vous soumettez, vous ne pouvez pas modifier les r\u00e9ponses. Votre responsable peut commenter chaque question."
 }
