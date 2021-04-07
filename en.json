@@ -223,7 +223,7 @@
     "224": "Skills that I want to develop in the future",
     "225": "Skills that I master but no longer wish to use",
     "226": "Skills I don't want to capitalize on",
-    "227": "Edit my profile",
+    "227": "Edit my account",
     "228": "Complete profile",
     "229": "of your profile is completed",
     "230": "We recommend that you complete 100% to take advantage of the application's features.",
@@ -655,5 +655,8 @@
     "658": "See feedback",
     "659": "Your profile is completed at",
     "660": "Your applications",
-    "661": "Reset My Account"
+    "661": "Reset My Account",
+    "662": "My Account",
+    "663": "About Neobrain",
+    "664": "GENERAL"
 }

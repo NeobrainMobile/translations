@@ -223,7 +223,7 @@
     "224": "Comp\u00e9tences que je souhaite d\u00e9velopper dans le futur",
     "225": "Comp\u00e9tences que je ma\u00eetrise mais que je ne souhaite plus utiliser",
     "226": "Comp\u00e9tences sur lesquelles je ne souhaite pas capitaliser",
-    "227": "\u00c9diter mon profil",
+    "227": "\u00c9diter mon compte",
     "228": "Compl\u00e9ter le profil",
     "229": "de votre profil est compl\u00e9t\u00e9",
     "230": "Nous vous conseillons de le compl\u00e9ter \u00e0 100 % pour profiter de toutes les fonctionnalit\u00e9s de l'application.",
@@ -655,5 +655,8 @@
     "658": "Voir feedback",
     "659": "Votre profil est compl\u00e9t\u00e9 \u00e0",
     "660": "Vos applications",
-    "661": "R\u00e9initialiser Mon Compte"
+    "661": "R\u00e9initialiser Mon Compte",
+    "662": "Mon Compte",
+    "663": "\u00c0 propos de Neobrain",
+    "664": "GENERAL"
 }
