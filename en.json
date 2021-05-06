@@ -686,5 +686,8 @@
     "689": "Check manager's answers",
     "690": "Check my answers",
     "691": "Skills Map Details",
-    "692": "Unable to logout"
+    "692": "Unable to logout",
+    "693": "Edit skill",
+    "694": "Delete skill",
+    "695": "Cannot delete this skill"
 }
