@@ -689,5 +689,7 @@
     "692": "Unable to logout",
     "693": "Edit skill",
     "694": "Delete skill",
-    "695": "Cannot delete this skill"
+    "695": "Cannot delete this skill",
+    "696": "Changer le nom du plan",
+    "697": "Delete the plan"
 }
