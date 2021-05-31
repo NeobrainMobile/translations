@@ -718,5 +718,10 @@
     "721": "{} seconds ago",
     "722": "This page is under construction ...",
     "723": "Keyword research",
-    "724": "There are no offers available at the moment ..."
+    "724": "There are no offers available at the moment ...",
+    "725": "{} minutes ago",
+    "726": "{} days ago",
+    "727": "{} weeks ago",
+    "728": "{} years ago",
+    "729": "{} months ago"
 }
